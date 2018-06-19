@@ -1,0 +1,7 @@
+[
+  {
+    "context": ["/AngularAPI/rest/consumer/angular2ServerAPIPost", "/AngularAPI/rest/consumer/angular2ServerAPI"],
+    "target": "http://139.59.14.31:8081",
+    "secure": false
+  }
+]
